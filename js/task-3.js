@@ -12,8 +12,6 @@ const profile = {
     }
 }
 
-console.log(profile);
-
 
 
 console.log(profile.getInfo()); // "Jacob has 300 active hours!"
